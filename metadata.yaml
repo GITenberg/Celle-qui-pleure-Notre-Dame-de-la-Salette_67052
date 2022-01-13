@@ -1,0 +1,32 @@
+_repo: Celle-qui-pleure-Notre-Dame-de-la-Salette_67052
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bloy, Léon
+    alias: Bloy, Leon
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '37756'
+    url: http://www.gutenberg.org/2009/agents/37756
+    wikipedia:
+    - https://en.wikipedia.org/wiki/L%C3%A9on_Bloy
+    - https://fr.wikipedia.org/wiki/L%C3%A9on_Bloy
+description: ''
+gutenberg_issued: '2021-12-30'
+identifiers:
+  gutenberg: '67052'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5462881f
+pgterms:marc905: 20211212092027bloy
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: "France :Mercure de France\r,1908."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Celle qui pleure: (Notre Dame de la Salette)'
+url: http://www.gutenberg.org/ebooks/67052
