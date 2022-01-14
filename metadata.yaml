@@ -1,5 +1,8 @@
 _repo: Celle-qui-pleure-Notre-Dame-de-la-Salette_67052
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67052-h/images/cover.jpg
 creator:
   author:
     agent_name: Bloy, Léon
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/L%C3%A9on_Bloy
     - https://fr.wikipedia.org/wiki/L%C3%A9on_Bloy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67052#Celle-qui-pleure-Notre-Dame-de-la-Salette
 gutenberg_issued: '2021-12-30'
 identifiers:
   gutenberg: '67052'
